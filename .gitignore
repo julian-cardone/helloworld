@@ -1,0 +1,15 @@
+# Debugging/Profiling files
+# macOS debug files (generated when debugging with Clang/LLVM)
+*.dSYM/        
+
+# Build files, as a result of code runner.
+build/
+
+# notes
+notes/
+
+# macOS specific files
+.DS_Store
+
+# IDE specific files
+.vscode
