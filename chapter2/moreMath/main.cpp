@@ -1,11 +1,6 @@
-#include <iostream>
+#include "moreMath.h"
 #include <cstdlib>
-
-// Forward declarations
-int add(int x, int y);
-int subtract(int x, int y);
-int multiply(int x, int y);
-int divide(int x, int y);
+#include <iostream>
 
 /**
  * Get user input and return the number.

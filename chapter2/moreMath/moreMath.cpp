@@ -1,5 +1,7 @@
+#include "moreMath.h"
 #include <cstdlib>
 #include <iostream>
+
 /**
  * This project is a library of simple arithmetic.
  */
@@ -33,5 +35,5 @@ int multiply(int x, int y)
  */
 int divide(int x, int y)
 {
-    return x/y;
+    return x / y;
 }
